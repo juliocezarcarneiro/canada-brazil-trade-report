@@ -1,0 +1,14 @@
+
+Canada–Brazil bilateral trade reached $14,470,332,741 in 2025, representing a +16.0% change from 2024 ($12,476,738,128). 
+This growth has been driven primarily by Ontario and Cocoa and Cocoa Preparations.
+
+KEY FINDINGS:
+• Total trade grew +16.0% between 2024 and 2025
+• Ontario is the primary growth engine, contributing 68.8% of total growth
+• Cocoa and Cocoa Preparations leads product growth at 212.2%
+• Top 1 provinces drive 80% of growth (Pareto principle)
+• 6-month forecast: +2.2% growth expected ($7,641,817,188 total)
+• Confidence level: HIGH (R²=0.960, MAPE=2.5%)
+
+STRATEGIC IMPERATIVE:
+Focus resources on Ontario and Cocoa and Cocoa Preparations to maximize impact, as these two areas combined represent the majority of growth opportunity.

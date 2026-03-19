@@ -1,0 +1,21 @@
+
+CANADA-BRAZIL TRADE REPORT: 2024-2025
+================================================================================
+
+OVERVIEW:
+Trade between Canada and Brazil reached $14,470,332,741 in 2025, 
+representing a +16.0% change from 2024 ($12,476,738,128).
+
+KEY DRIVERS:
+• Primary growth engine: Ontario (68.8% of total growth)
+• Leading product category: Cocoa and Cocoa Preparations (+212.2%)
+• Market concentration: Top 10 provinces drive 80% of growth
+
+OUTLOOK:
+• 6-month forecast: +2.2% growth expected
+• Projected 6-month total: $7,641,817,188
+• Confidence level: HIGH (R²=0.960, MAPE=2.5%)
+
+STRATEGIC IMPERATIVE:
+Focus resources on Ontario and Cocoa and Cocoa Preparations to maximize impact, 
+as these two areas combined represent the majority of growth opportunity.

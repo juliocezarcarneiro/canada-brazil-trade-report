@@ -1,0 +1,17 @@
+Report Generation Log
+====================
+Date: March 15, 2026 at 21:05:08
+Report ID: CAN-BRA-20260315_210508
+Authors: Cristiane Giacomazzi, Flavia Batista, Julio Carneiro
+Data Source: /content/drive/MyDrive/business-report/data/clean/dataset_clean.csv
+Analysis Period: 2024-2025
+PDF Generated: Yes
+Files Generated:
+  - canada_brazil_trade_report_20260315_210508.html
+  - latest_report.html
+  - index.html
+  - canada_brazil_trade_report_20260315_210508.pdf
+  - latest_report.pdf
+  - trade_data_20260315_210508.xlsx
+  - summary_20260315_210508.md
+Status: SUCCESS

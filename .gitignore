@@ -1,0 +1,36 @@
+
+# Colab/IDE files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+*.ipynb
+
+# Data files (keep sensitive data out)
+*.csv
+*.xlsx
+*.xls
+*.json
+data/
+raw_data/
+*.gdoc
+*.gsheet
+*.gslides
+*.gdraw
+
+# Environment files
+.env
+*.env
+venv/
+env/
+ENV/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
