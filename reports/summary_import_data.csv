@@ -1,0 +1,15 @@
+column,dtype,non_null_count,null_count,null_pct,n_unique
+Period,datetime64[ns],72320,0,0.0,24
+Commodity,object,72320,0,0.0,4288
+Province,object,72320,0,0.0,10
+Country,object,72320,0,0.0,1
+State,float64,0,72320,100.0,0
+Value ($),int64,72320,0,0.0,26351
+Quantity,int64,72320,0,0.0,7888
+Unit of measure,object,72320,0,0.0,18
+flow,object,72320,0,0.0,1
+year,int32,72320,0,0.0,2
+month,int32,72320,0,0.0,12
+month_year,object,72320,0,0.0,24
+commodity_code,object,72320,0,0.0,899
+unit_price,float64,41168,31152,43.08,30098
