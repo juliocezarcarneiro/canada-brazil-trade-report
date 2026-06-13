@@ -126,18 +126,21 @@ Executive Reporting
 
 ---
 
-## 📸 Executive Dashboard
+## 📄 Executive Report
 
-![Executive Dashboard](images/executive-dashboard.png)
+### Download Full Report
 
-The executive dashboard summarizes the most important trade indicators, including:
+📥 [Download the Executive Trade Report](reports/fcbb-canada-brazil-trade-report.pdf)
 
-* Total Trade Volume
-* Growth Rate
-* Exports
-* Imports
-* Trade Balance
-* 2026 Outlook
+The report provides a comprehensive analysis of Canada–Brazil merchandise trade performance, including:
+
+* Trade Growth Trends
+* Import and Export Analysis
+* Product Performance Rankings
+* Provincial Trade Concentration
+* Strategic Investment Opportunities
+* Ontario Spotlight
+* 2026 Forecast and Outlook
 
 ---
 
@@ -149,19 +152,7 @@ The executive dashboard summarizes the most important trade indicators, includin
 * Trade volume increased by 16.0% year-over-year.
 * Canada remains a net importer in the bilateral relationship.
 
-![Trade Expansion](images/trade-expansion-summary.png)
-
----
-
-### Import Dependency
-
-* Imports reached CAD $11.6 billion.
-* Exports reached CAD $2.9 billion.
-* Trade deficit reached CAD $8.7 billion.
-
-The trade relationship continues to expand but remains structurally imbalanced.
-
-![Annual Trade Overview](images/annual-trade-overview.png)
+![Trade Expansion](images/chart_extra_trade_expansion_summary.png)
 
 ---
 
@@ -181,39 +172,7 @@ Growth is concentrated within a small number of product categories.
 * Iron and Steel (-62%)
 * Man-Made Staple Fibres (-58%)
 
-![Product Performance](images/product-performance-ranking.png)
-
----
-
-### Provincial Concentration
-
-Trade activity remains highly concentrated geographically.
-
-#### Top Provinces by Trade Volume
-
-1. Ontario
-2. Quebec
-3. Saskatchewan
-
-Ontario alone represented approximately 50% of total Canada–Brazil trade volume.
-
-![Provincial Volume](images/provincial-trade-volume.png)
-
----
-
-### Growth Leaders
-
-Several provinces outperformed the national average.
-
-#### Strongest Growth
-
-* Alberta (+49.2%)
-* Saskatchewan (+47.0%)
-* Manitoba (+45.6%)
-
-This suggests trade momentum is becoming increasingly concentrated among a limited number of provinces.
-
-![Provincial Growth](images/provincial-growth-decline.png)
+![Product Performance](images/chart_q4_product_performance.png)
 
 ---
 
@@ -226,46 +185,7 @@ A strategic quadrant framework was developed to identify provinces that combine:
 
 Ontario emerged as the strongest combination of scale and momentum.
 
-![Investment Map](images/strategic-investment-map.png)
-
----
-
-## 🏆 Ontario Spotlight
-
-Ontario remains the dominant Canada–Brazil trade hub.
-
-### Ontario Highlights
-
-* CAD $7.22 billion trade volume
-* 49.9% share of total trade
-* +23.4% year-over-year growth
-* #1 province by trade volume
-
-![Ontario Spotlight](images/ontario-spotlight.png)
-
----
-
-## 🔮 Forecasting & Outlook
-
-A forecasting framework was developed to estimate 2026 trade activity.
-
-### Selected Forecast Model
-
-Seasonally Adjusted YoY Baseline
-
-### Forecast Results
-
-* Forecasted 2026 Trade Volume:
-
-  * CAD $16.8 billion
-
-### Forecast Support
-
-* MAPE: 15.3%
-* sMAPE: 14.7%
-* MAE: 0.18 CAD$B
-
-![Forecast](images/forecast-2026.png)
+![Investment Map](images/chart_q7_strategic_provincial_map.png)
 
 ---
 
@@ -348,6 +268,7 @@ canada-brazil-trade-analysis/
 ├── data/
 ├── notebooks/
 ├── reports/
+│   └── fcbb-canada-brazil-trade-report.pdf
 ├── images/
 ├── README.md
 ```
@@ -356,8 +277,6 @@ canada-brazil-trade-analysis/
 
 ## 🚀 Future Improvements
 
-* Interactive Power BI Dashboard
-* Interactive Tableau Dashboard
 * Product-Level Drilldowns
 * Province-Level Forecasting
 * Scenario-Based Forecast Models
