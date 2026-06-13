@@ -107,21 +107,56 @@ Statistics Canada – Canadian International Merchandise Trade Database
 ## 🔄 Project Workflow
 
 ```text
-Raw Trade Data
-        ↓
-Data Validation
-        ↓
-Data Cleaning
-        ↓
-Feature Engineering
-        ↓
-Exploratory Analysis
-        ↓
-Business Insights
-        ↓
-Forecast Modeling
-        ↓
-Executive Reporting
+┌─────────────────────────────┐
+│ Statistics Canada Trade Data│
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│ Data Validation             │
+│ Missing Values • Duplicates │
+│ Quality Checks              │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│ Data Cleaning & Preparation │
+│ Pandas • Transformation     │
+│ Standardization             │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│ Feature Engineering         │
+│ Growth Rates • Trade Mix    │
+│ Provincial Metrics          │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│ Exploratory Analysis        │
+│ Trade Trends • Products     │
+│ Provincial Performance      │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│ Forecast Modeling           │
+│ Baseline Scenario           │
+│ Validation Metrics          │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│ Executive Insights          │
+│ Recommendations             │
+│ Strategic Opportunities     │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│ FCBB Executive Trade Report │
+└─────────────────────────────┘
 ```
 
 ---
