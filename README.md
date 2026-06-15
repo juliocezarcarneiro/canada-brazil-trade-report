@@ -6,6 +6,10 @@ An executive-level analysis of Canada–Brazil merchandise trade performance usi
 
 This project evaluates bilateral trade trends, import-export dynamics, product performance, provincial trade concentration, and future trade outlook to support strategic decision-making.
 
+![Canada–Brazil Trade Outlook](images/canada-brazil-2025-trade-outlook.png)
+
+📥 [Download the Executive Trade Report](reports/fcbb-canada-brazil-trade-report.pdf)
+
 ---
 
 ## 📊 Project Overview
