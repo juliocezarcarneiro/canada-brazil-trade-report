@@ -8,7 +8,7 @@ This project evaluates bilateral trade trends, import-export dynamics, product p
 
 ![Canada–Brazil Trade Outlook](images/canada-brazil-2025-trade-outlook.png)
 
-📥 [Download the Executive Trade Report](reports/fcbb-canada-brazil-trade-report.pdf)
+📥 [Download the Executive Trade Report](reports/canada_brazil_trade_report.pdf)
 
 ---
 
