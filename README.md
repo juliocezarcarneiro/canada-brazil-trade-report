@@ -302,24 +302,57 @@ Recommendation:
 ## 📁 Repository Structure
 
 ```text
-canada-brazil-trade-analysis/
+canada-brazil-trade-report/
 │
-├── data/
-├── notebooks/
+├── data/                     # Source and processed datasets
+├── notebooks/                # Main Jupyter notebook
 ├── reports/
 │   └── fcbb-canada-brazil-trade-report.pdf
-├── images/
+├── images/                   # Report figures and README assets
 ├── README.md
+└── requirements.txt
 ```
+
+---
+
+## ▶️ How to Run the Project
+
+Clone the repository:
+
+```bash
+git clone https://github.com/juliocezarcarneiro/canada-brazil-trade-report.git
+```
+
+Open the project folder:
+
+```bash
+cd canada-brazil-trade-report
+```
+
+Install the required libraries:
+
+```bash
+pip install pandas numpy matplotlib reportlab jupyter
+```
+
+Launch Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+Open the notebook located in the `notebooks/` directory and run all cells to reproduce the complete analysis and automatically generate the executive PDF report.
 
 ---
 
 ## 🚀 Future Improvements
 
-* Product-Level Drilldowns
-* Province-Level Forecasting
-* Scenario-Based Forecast Models
-* Automated Report Generation
+- Automated data refresh from Statistics Canada
+- Province-level forecasting
+- Sector-level opportunity scoring
+- Advanced forecasting models (ARIMA / Prophet)
+- Trade partner benchmarking
+- Enhanced market intelligence layer
 
 ---
 
