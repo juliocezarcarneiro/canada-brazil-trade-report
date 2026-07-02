@@ -13,28 +13,33 @@ The final deliverable is an executive PDF report containing KPIs, visualizations
 
 ---
 
-# 2. Repository Structure
+## 📁 Repository Structure
 
 ```text
 canada-brazil-trade-report/
 │
-├── data/
-│   ├── raw/                     # Original Statistics Canada datasets
-│   ├── processed/               # Cleaned datasets used by the report
-│   └── dataset_clean.csv
-│
-├── notebooks/
-│   └── trade_analysis.ipynb     # Main notebook
-│
+├── data/                                   # Source and processed datasets
+├── notebooks/                
+    └── canada-brazil-trade-report.ipynb    # Main analysis and PDF report generation 
+    └── exploratory-analysis.ipynb          # Exploratory data analysis (EDA)
 ├── reports/
-│   └── trade-report.pdf         # Generated executive report
-│
-├── images/                      # Figures and project images
-│
-├── README.md
-├── CODE_DOCUMENTATION.md
-└── LICENSE
+│   └── canada_brazil_trade_report.pdf
+    └── canada_brazil_trade_report_jun_25_2026.pdf
+    └── data_validation_report.pdf
+├── images/                                 # Charts, figures, and README assets
+├── README.md                               # Project overview
+├── CODE-DOCUMENTATION.md                   # Technical documentation
+└── requirements.txt                        # Python dependencies
 ```
+
+### Repository Overview
+
+- **data/** – Contains the raw and processed datasets used throughout the project.
+- **notebooks/** – Jupyter notebooks for data validation, exploratory analysis, forecasting, visualization, and automated PDF report generation.
+- **reports/** – Generated executive reports and data validation reports.
+- **images/** – Figures, charts, and visual assets used in the reports and README.
+- **CODE-DOCUMENTATION.md** – Technical documentation describing the project architecture, workflow, and implementation.
+- **requirements.txt** – Python packages required to reproduce the analysis.
 
 ---
 
@@ -277,7 +282,6 @@ Supported environments:
 - Jupyter Notebook
 - JupyterLab
 - Visual Studio Code
-- Google Colab
 
 ## Step 4
 
@@ -325,25 +329,7 @@ Before publishing a new version:
 
 ---
 
-# 9. Future Improvements
-
-Potential enhancements include:
-
-- Convert notebook into modular Python scripts
-- Create a requirements.txt file
-- Add automated unit tests
-- Add automated data validation
-- Add logging
-- Create configuration files
-- Add CLI execution
-- Add interactive visualizations
-- Add product drill-down pages
-- Improve forecasting models
-- Add scheduled report generation
-
----
-
-# 10. Contributors
+# 9. Contributors
 
 Project Contributors
 
@@ -357,16 +343,15 @@ Federation of Canada-Brazil Business (FCBB)
 
 ---
 
-# 11. Version History
+# 10. Version History
 
 | Version | Date | Description |
 |----------|------|-------------|
 | 1.0 | 2026 | Initial executive trade analysis report |
-| 1.1 | 2027 | Executive trade analysis improvements |
 
 ---
 
-# 12. License
+# 11. License
 
 This repository is intended for educational, analytical, and professional portfolio purposes.
 

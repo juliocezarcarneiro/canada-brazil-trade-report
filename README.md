@@ -304,14 +304,28 @@ Recommendation:
 ```text
 canada-brazil-trade-report/
 │
-├── data/                     # Source and processed datasets
-├── notebooks/                # Main Jupyter notebook
+├── data/                                   # Source and processed datasets
+├── notebooks/                
+    └── canada-brazil-trade-report.ipynb    # Main analysis and PDF report generation 
+    └── exploratory-analysis.ipynb          # Exploratory data analysis (EDA)
 ├── reports/
-│   └── fcbb-canada-brazil-trade-report.pdf
-├── images/                   # Report figures and README assets
-├── README.md
-└── requirements.txt
+│   └── canada_brazil_trade_report.pdf
+    └── canada_brazil_trade_report_jun_25_2026.pdf
+    └── data_validation_report.pdf
+├── images/                                 # Charts, figures, and README assets
+├── README.md                               # Project overview
+├── CODE-DOCUMENTATION.md                   # Technical documentation
+└── requirements.txt                        # Python dependencies
 ```
+
+### Repository Overview
+
+- **data/** – Contains the raw and processed datasets used throughout the project.
+- **notebooks/** – Jupyter notebooks for data validation, exploratory analysis, forecasting, visualization, and automated PDF report generation.
+- **reports/** – Generated executive reports and data validation reports.
+- **images/** – Figures, charts, and visual assets used in the reports and README.
+- **CODE-DOCUMENTATION.md** – Technical documentation describing the project architecture, workflow, and implementation.
+- **requirements.txt** – Python packages required to reproduce the analysis.
 
 ---
 
