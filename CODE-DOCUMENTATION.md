@@ -237,14 +237,23 @@ Charts are generated first and then inserted into the final report.
 
 # 5. Project Dependencies
 
-Main libraries used:
+The project uses the following Python libraries:
 
-```python
+### External Libraries
+
+```text
 pandas
 numpy
 matplotlib
 reportlab
 Pillow
+```
+
+### Python Standard Library Modules
+
+The following modules are included with Python and therefore do **not** need to be installed separately or listed in `requirements.txt`:
+
+```text
 pathlib
 datetime
 textwrap
@@ -252,7 +261,7 @@ os
 warnings
 ```
 
----
+These libraries support data loading, validation, cleaning, feature engineering, visualization, forecasting, and automated PDF report generation throughout the project.
 
 # 6. Running the Project
 
